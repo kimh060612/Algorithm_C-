@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student in KyungHee Univ."
   location         : "Seoul, Repulbic of Korea"
-  email            :
+  email            : "kimh060612@khu.ac.kr"
   links:
     - label: "kimh060612@khu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
