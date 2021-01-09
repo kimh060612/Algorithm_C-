@@ -2,7 +2,6 @@
 title: "Reinforcement learning Start"
 layout: posts
 permalink: /RL/
-author_profile: true
 toc: true
 ---
 
