@@ -1,7 +1,8 @@
 ---
 title: "Reinforcement learning Start"
 layout: posts
-permalink: /RL/
+categories:
+  - Reinforcement-learning
 toc: true
 ---
 

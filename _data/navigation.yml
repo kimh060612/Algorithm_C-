@@ -1,10 +1,12 @@
 # main links
 main:
-   - title: "Category"
-     url: "/categories/"
+   - title: "Categories"
+     url: "/Categories/" 
+   - title: "Tags"
+     url: "/tags/"
    - title: "Reinforcement-learning"
      url: /RL/
    - title: "About"
      url: "/About/"
-   - title: "Publications"
-     url: "/publications/"
+   - title: "Deep-learning"
+     url: "/DL-CV/"
