@@ -18,6 +18,11 @@ MathJax.Hub.Queue(function() {
         all[i].SourceElement().parentNode.className += ' has-jax';
     }
 });
+MathJax.Hub.Register.StartupHook('TeX Jax Ready', function () {
+    MathJax.InputJax.TeX.prefilterHooks.Add(function (data) {
+      data.math = data.math.replace(/^% <!\[CDATA\[/, '').replace(/%\]\]>$/, '');
+    });
+  });
 MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
         alert("Math Processing Error: "+message[1]);
     });
