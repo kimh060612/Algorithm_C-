@@ -7,7 +7,7 @@ MathJax.Hub.Config({
     },
     tex2jax: {
     inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
+    displayMath: [ ['$$', '$$'], '[\\[','\\]'] ],
     processEscapes: true,
     skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
     }
@@ -18,11 +18,6 @@ MathJax.Hub.Queue(function() {
         all[i].SourceElement().parentNode.className += ' has-jax';
     }
 });
-MathJax.Hub.Register.StartupHook('TeX Jax Ready', function () {
-    MathJax.InputJax.TeX.prefilterHooks.Add(function (data) {
-      data.math = data.math.replace(/^% <!\[CDATA\[/, '').replace(/%\]\]>$/, '');
-    });
-  });
 MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
         alert("Math Processing Error: "+message[1]);
     });
@@ -33,3 +28,10 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 <script type="text/javascript" async
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
+<script type="text/javascript">
+    MathJax.Hub.Queue(
+      ["resetEquationNumbers",MathJax.InputJax.TeX],
+      ["Typeset",MathJax.Hub]
+    );
+  </script>
