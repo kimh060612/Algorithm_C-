@@ -23,8 +23,9 @@ Role:
 
 <br>
 
-1. Face detection system 구축
-    치매 예방을 위한 로봇 Pio의 User Interaction을 위한 Face detection기능을 구현하고 실제 제품에 적용하는 업무를 진행하였습니다.
+1. Face detection system 구축  <br/>
+    치매 예방을 위한 로봇 Pio의 User Interaction을 위한 Face detection기능을 구현하고 실제 제품에 적용하는 업무를 진행하였습니다. 
+
     <br>
     개발 계기:  
 
@@ -50,7 +51,8 @@ Role:
 
 <br>
 
-2. Color tracking system 구축
+2. Color tracking system 구축 <br/>
+
     다양한 상황에서도 정확하게 동작 가능한 Color tracking system을 개발, 색상 카드를 활용하여 사용자와 상호작용하는 게임 콘텐츠에 적용했습니다.
 
     <br>
@@ -75,7 +77,8 @@ Role:
 
 <br>
 
-3. Robot Engine 구조 개편 및 보완
+3. Robot Engine 구조 개편 및 보완<br/>
+
     Pio의 제어 엔진(모터, 사운드, 통신 등을 제어하는 프로그램)을 구현하는데 생기는 불필요한 반복 작업을 줄이고 메모리 사용량을 줄일 수 있도록 엔진 구조 개선 작업을 진행했습니다.
 
     <br>
@@ -103,7 +106,7 @@ Role:
 
 <br>
 
-4. 업데이트 및 버그 개선 (QA)
+4. 업데이트 및 버그 개선 (QA) <br/>
     유관부서와 협업하며 개발된 제품의 Test Case 작성 및 Issue Report 관리, 리포트 된 버그 수정, 탑재된 게임 컨텐츠 업데이트, 현장 A/S 등 소프트웨어 QA 전반을 맡아 진행했습니다.
 
     <br>
