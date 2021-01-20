@@ -42,25 +42,19 @@ Date: 2020.07.01 ~ 2020.09.04
 
 1. 자율 주행 경진대회를 위해 관련 분야를 공부중  
     
-    - Lane detection and Sign recognition 등 다양한 CV 관련 분야의 개발을 책임짐.
-
-<br>
+    - Lane detection and Sign recognition 등 다양한 CV 관련 분야의 개발을 책임짐.  
 
 2. Stacked hourglass 논문 스터디 구현 및 응용을 연구 중  
 
-    - [FANFace](https://www.adrianbulat.com/downloads/AAAI20/FANFace.pdf)라는 논문에서 영감을 받아서 Face landmark detection과 Shape based & Appearance based eye gaze tracking에 대하여 공부를 하고 있습니다.
-
-<br>
+    - [FANFace](https://www.adrianbulat.com/downloads/AAAI20/FANFace.pdf)라는 논문에서 영감을 받아서 Face landmark detection과 Shape based & Appearance based eye gaze tracking에 대하여 공부를 하고 있습니다.  
 
 3. 동아리에서 Deep Neural Network의 기초 지식을 강의중  
 
-    -  경희대학교에서 학우들을 모아서 Deep Neural Network의 수학적 모델과 Tensorflow 2를 활용한 기초적인 구현을 강의하고 있습니다. (강의 내용은 차차 블로그에 올라올 예정)
-
-<br>
+    -  경희대학교에서 학우들을 모아서 Deep Neural Network의 수학적 모델과 Tensorflow 2를 활용한 기초적인 구현을 강의하고 있습니다. (강의 내용은 차차 블로그에 올라올 예정)  
 
 4. Docker를 활용한 GPU 서버 관리  
 
-    - 소속된 랩실에서 GPU서버를 구성원이 원격으로 사용할 수 있도록 Docker를 활용하여 원격 개발 환경 구축 및 서버 관리를 하고 있습니다.   
+    - 소속된 랩실에서 GPU서버를 구성원이 원격으로 사용할 수 있도록 Docker를 활용하여 원격 개발 환경 구축 및 서버 관리를 하고 있습니다.     
 
   
 -------------------------------------------------------------
