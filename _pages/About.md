@@ -7,15 +7,13 @@ author_profile: true
 
 ### 안녕하세요!
 <br>  
- 간단한 자기소개를 하지면, 저는 경희대학교 소프트웨어 융합학과에서 현재 학부생으로써 공부하고 있는 대학생입니다.     
- 현재 모교에서 Computer Vision 관련하여 학부 연구생으로써 활동하고 있습니다. 
- 비단 CV 말고도 다양한 분야에 흥미를 가지고 공부중에 있으며 인턴 활동이나 각종 동아리 활동 또한 진행하고 있습니다!   
+    경희대학교 소프트웨어 융합학과 재학중이며, Computer Vision 분야의 연구실인 Data Analysis and Vision Intelligence Lab에서 학부 연구생으로 공부하고 있습니다. CV이외에도 다양한 분야에 흥미를 가지고 공부하고 있으며, 기술 스타트업 인턴 및 동아리 활동을 통해서 실무 경험을 쌓아 가고 있습니다.
 
 *Research Interest:* Eye gaze tracking, Reinforcement learning, AutoML, Efficient Deep Neural Architecture    
 
 <br>
 
-*Contact:* E-mail: [kimh060612@khu.ac.kr](mailto:kimh060612@khu.ac.kr), TEL: [010-4062-0460](tel:010-4062-0460), Github: [Github](https://github.com/kimh060612)
+*Contact:* E-mail: [kimh060612@khu.ac.kr](mailto:kimh060612@khu.ac.kr), MOBILE: [010-4062-0460](tel:010-4062-0460), Github: [Github](https://github.com/kimh060612)
 
 -------------------------------------------------------------
 
