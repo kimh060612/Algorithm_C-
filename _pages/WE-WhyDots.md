@@ -44,7 +44,7 @@ Role:
     해결책
 
     - 처음에는 Cloud Service를 활용하는 방법을 생각해 보았지만, 회사에는 그만큼의 경제적인 여유와 추가적인 시간을 투자할 상황이 아니였습니다. 따라서 저는 Tensorflow Lite를 활용하여 Deep learning 모델을 최적화하여 사용하는 방법을 택하게 되었습니다.
-    - WIDER Face, FDDB 같은 유명한 Dataset들을 모은 뒤에 적절한 전처리를 거쳐, Mobilenet SSD, Yolo v3 같은 Object detection 모델을 학습시킨 뒤에, tensorflow Lite로 최적화를 진행하였습니다. 
+    - WIDER Face 같은 유명한 Dataset들을 모은 뒤에 적절한 전처리를 거쳐, Mobilenet SSD, Yolo v3 같은 Object detection 모델을 학습시킨 뒤에, tensorflow Lite로 최적화를 진행하였습니다. 
 
     <br>
     결과: 결과적으로, Adaboost 만큼 빠르면서 정확도 또한 매우 높은 Face detection model을 만들어 모든 기기에 정상적으로 배포할 수 있었습니다.
